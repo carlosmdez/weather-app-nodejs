@@ -1,0 +1,24 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmdez/weather-app-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosmdez/weather-app-nodejs/issues"
+  },
+  "homepage": "https://github.com/carlosmdez/weather-app-nodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0"
+  }
+}
