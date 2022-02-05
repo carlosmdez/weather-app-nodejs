@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/carlosmdez/weather-app-nodejs#readme",
   "dependencies": {
+    "axios": "^0.25.0",
     "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
     "inquirer": "^8.2.0"
   }
 }
